@@ -9,6 +9,7 @@
 ```
 
 <H1>mac</H1>
+
 ```
 ./heic2jpg -s ./heics -t ./heics/jpgs
 ```
